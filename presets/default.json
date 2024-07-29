@@ -44,7 +44,8 @@
     "default_aspect_ratio": "1152*896",
     "default_overwrite_step": -1,
     "checkpoint_downloads": {
-        "realvisxlV40_v40Bakedvae.safetensors": "https://civitai.com/api/download/models/344487?type=Model&format=SafeTensor&size=pruned&fp=fp16"
+        "realvisxlV40_v40Bakedvae.safetensors": "https://civitai.com/api/download/models/344487?type=Model&format=SafeTensor&size=pruned&fp=fp16",
+        "realisticVisionV60B1_v51VAE.safetensors": "https://civitai.com/api/download/models/130072?type=Model&format=SafeTensor&size=full&fp=fp16"
     },
     "embeddings_downloads": {},
     "lora_downloads": {
