@@ -1,5 +1,5 @@
 {
-    "default_model": "realisticVisionV60B1_v51VAE.safetensors",
+    "default_model": "realvisxlV40_v40Bakedvae.safetensors",
     "default_refiner": "None",
     "default_refiner_switch": 0.5,
     "default_loras": [
@@ -44,7 +44,7 @@
     "default_aspect_ratio": "1152*896",
     "default_overwrite_step": -1,
     "checkpoint_downloads": {
-        "realisticVisionV60B1_v51VAE.safetensors": "https://civitai.com/api/download/models/130072?type=Model&format=SafeTensor&size=full&fp=fp16"
+        "realvisxlV40_v40Bakedvae.safetensors": "https://civitai.com/api/download/models/344487?type=Model&format=SafeTensor&size=pruned&fp=fp16"
     },
     "embeddings_downloads": {},
     "lora_downloads": {
@@ -55,7 +55,7 @@
         "GodPussy1 v4.safetensors": "https://civitai.com/api/download/models/99602?type=Model&format=SafeTensor"
     },
     "previous_default_models": [
-        "realisticVisionV60B1_v51VAE.safetensors",
+        "realvisxlV40_v40Bakedvae.safetensors",
         "juggernautXL_version8Rundiffusion.safetensors",
         "juggernautXL_version7Rundiffusion.safetensors",
         "juggernautXL_v7Rundiffusion.safetensors",
